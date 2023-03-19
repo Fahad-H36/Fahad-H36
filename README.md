@@ -6,4 +6,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahad-hussain-780622247/)
 - ⚡ Fun fact: Marvel and GoT fan
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fahad-H36&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fahad-H36&theme=transparent&border_radius=4.3)](https://git.io/streak-stats)
